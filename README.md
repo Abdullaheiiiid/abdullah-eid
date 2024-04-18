@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdullaheid239@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PHksAvph-_IOFSqJeTBLT6zJLHEU62W6/view?usp=drive_link](https://drive.google.com/file/d/1PHksAvph-_IOFSqJeTBLT6zJLHEU62W6/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1PHksAvph-_IOFSqJeTBLT6zJLHEU62W6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
