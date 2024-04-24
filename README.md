@@ -11,7 +11,7 @@
 I'm a Computer and Systems engineer who is passionate about Embedded Software.
 
 - 🎓 &nbsp; Junior at : Faculty of Engineering (Computer and Systems department) - Helwan Unversity.
-- Grade : Excellent with honours (Rank : 1st ).
+- Grade : Very Good.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Web Development. 
 - 📫 How to reach me: [Linkedin]((https://www.linkedin.com/in/abdullaheiid)) [Gmail](https://www.abdullaheid239@gmail.com)
 
@@ -39,13 +39,13 @@ I'm a Computer and Systems engineer who is passionate about Embedded Software.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="Mahmoud-Karem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullaheiiiid" alt="Abdullaheiiiid" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📊 Profile stats
 
-[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Karem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
+[![Mahmoud Karem 's github stats](https://github-readme-stats.vercel.app/api?username=Abdullaheiiiid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdullaheiiiid/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
