@@ -13,7 +13,7 @@ I'm a Computer and Systems engineer who is passionate about Embedded Software.
 - 🎓 &nbsp; Junior at : Faculty of Engineering (Computer and Systems department) - Helwan Unversity.
 - Grade : Very Good.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Web Development. 
-- 📫 How to reach me: [Linkedin]((https://www.linkedin.com/in/abdullaheiid)) [Gmail](https://www.abdullaheid239@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdullaheiid) [Gmail](https://www.abdullaheid239@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
